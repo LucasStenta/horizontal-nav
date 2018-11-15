@@ -1,5 +1,5 @@
 html {
-  box-shadow: border-box;
+  box-sizing: border-box;
   background-color: #dbd6cf;
   line-height: 1.5rem;
   font-family: Bevan, sans-serif;
