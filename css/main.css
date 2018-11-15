@@ -9,7 +9,7 @@ html {
   box-sizing: inherit;
 }
 
-body {s
+body {
   display: block;
   background-color: #79756f;
   text-align: center;
@@ -28,14 +28,14 @@ ul {
 }
 
 a {
-    text-decoration: none;
-    color: #fff;
-    border: 1px solid #713837;
-    background-color: #713837;
-    display: block;
-    padding: 0.5em;
-    font-family: sans-serif;
-    border-radius: 5px;
+  text-decoration: none;
+  color: #fff;
+  border: 1px solid #713837;
+  background-color: #713837;
+  display: block;
+  padding: 0.5em;
+  font-family: sans-serif;
+  border-radius: 5px;
 }
 
 a:hover {
@@ -44,5 +44,5 @@ a:hover {
 }
 
 li {
-display: inline-block;
+  display: inline-block;
 }
